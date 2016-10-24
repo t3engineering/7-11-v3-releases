@@ -1,5 +1,5 @@
-# 7-11-v3-releases
-This repo is used to generate [GitHub pages](https://pages.github.com), which displays [our v3.x releases](https://t3engineering.github.io/7-11-v3-releases/) for the 7-11 iOS project, which you can find [here](https://t3engineering.github.io/7-11-v3-releases/).
+# ios-7-11-v3-releases
+This repo is used to generate [GitHub pages](https://pages.github.com), which displays [our v3.x releases](https://t3engineering.github.io/ios-7-11-v3-releases/) for the 7-11 iOS project, which you can find [here](https://t3engineering.github.io/ios-7-11-v3-releases/).
 
 I'm currently working on automating our release process, but at the moment it's completely manual. To release a new build:
 
@@ -27,7 +27,7 @@ I'm currently working on automating our release process, but at the moment it's 
 	6. Get the auto generated release notes from JIRA near the top of the page.
 	![](img/release-notes.png)
 	7. Paste them into your new `Release-Notes.html` file.
-6. Push your changes! They should now be publically visible at [t3engineering.github.io/7-11-v3-releases](https://t3engineering.github.io/7-11-v3-releases/).
+6. Push your changes! They should now be publically visible at [t3engineering.github.io/ios-7-11-v3-releases](https://t3engineering.github.io/ios-7-11-v3-releases/).
 
 # Known Issues
 GitHub would prefer us to use their Releases product to send out binaries. When we push an update, GitHub sends a warning email, which is summed as:
